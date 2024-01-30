@@ -1,12 +1,8 @@
-
-        <h1>Hi 👋, I'm </h1>
-
-    
-        <p>A passionate fullstack developer from </p>
+# Hi 👋, I'm Tim
+<p>A passionate fullstack developer from </p>
         
-    
-        <h2>🚀 Languages and Tools I Use</h2>
-        <p>
+# 🚀 Languages and Tools I Use
+<p>
             <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -31,21 +27,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
         </p>
 
-    
-        <h2>✒️ Recent Posts</h2>
-        <ul>
+# ✒️ Recent Posts
+<ul>
             <li><a target="_blank" href="https://github.com/a1013457richar/vite_mern">MERN Estate - Real Estate Application</a></li>
 <li><a target="_blank" href="https://github.com/a1013457richar/mern-blog">Mern_blog</a></li>
         </ul>
 
     
-            <p>
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tim Huang&show_icons=true&locale=en" alt="Tim Huang" />
-            </p>
-
-        
-            <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tim Huang&show_icons=true&locale=en&layout=compact" alt="Tim Huang" />
-            </p>
-
-        
