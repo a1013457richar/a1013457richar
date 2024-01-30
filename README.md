@@ -29,10 +29,10 @@
 
 # ✒️ Recent Posts
 <ul>
-            <li><a target="_blank" href="https://github.com/a1013457richar/vite_mern">MERN Estate - Real Estate Application</a></li>
+<li><a target="_blank" href="https://github.com/a1013457richar/vite_mern">MERN Estate - Real Estate Application</a></li>
 <li><a target="_blank" href="https://github.com/a1013457richar/mern-blog">Mern_blog</a></li>
-        <li><a target="_blank" href=" https://github.com/a1013457richar/thread">thread</a></li>
+<li><a target="_blank" href="https://github.com/a1013457richar/thread">thread</a></li>
        
-        </ul>
+</ul>
 
     
