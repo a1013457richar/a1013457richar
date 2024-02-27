@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tim
 <p>A passionate fullstack developer from </p>
-<li><a target="_blank" href="[https://github.com/a1013457richar/vite_mern](https://gist.github.com/a1013457richar/fd95a7d0cffdac53df3a475d01865cd1)">MERN Estate - Real Estate Application</a></li>
+<a href="https://gist.github.com/a1013457richar/fd95a7d0cffdac53df3a475d01865cd1"></a>
 
         
 # 🚀 Languages and Tools I Use
